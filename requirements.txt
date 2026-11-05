@@ -4,4 +4,4 @@ SQLAlchemy==2.0.40
 python-jose[cryptography]==3.4.0
 pydantic-settings==2.8.1
 python-multipart==0.0.20
-psycopg[binary]==3.2.6
+psycopg[binary]>=3.2.9,<4
